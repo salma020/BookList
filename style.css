@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+.BookColor{
+    color: orange;
+}
+#AddBtn{
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.headingBorder{
+    border-top: 1px solid rgb(222, 219, 219);
+    
+}
+tbody :nth-child(2n-1){
+    background-color: rgb(220, 217, 217);
+}
